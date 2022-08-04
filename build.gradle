@@ -19,7 +19,7 @@ ext {
     targetSdkVersion = 30
 
     coroutinesVersion = '1.5.2'
-    androidxWorkVersion = "2.7.0"
+    androidxWorkVersion = "2.7.1"
 
     fluxCVersion = 'trunk-b176f89d8db39be3ef5f2f5f29a21dd9fb3a4ecf'
 

@@ -4,7 +4,7 @@ plugins {
 }
 
 ext.kotlinPoetVersion = '1.6.0'
-ext.autoServiceVersion = '1.0'
+ext.autoServiceVersion = '1.0.1'
 
 dependencies {
     implementation project(':libs:annotations')

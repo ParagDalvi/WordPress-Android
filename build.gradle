@@ -36,7 +36,7 @@ ext {
     swipeToRefresh = '1.1.0'
     uCropVersion = '2.2.4'
     lifecycleVersion = '2.4.1'
-    tracksVersion = '2.2.0'
+    tracksVersion = '137-0d92344c9760da822777c9c9d342aa385ce5f22e'
     roomVersion = '2.3.0'
 
     coreLibraryDesugaringVersion = '1.1.5'

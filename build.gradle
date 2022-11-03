@@ -41,7 +41,7 @@ ext {
 
     coreLibraryDesugaringVersion = '1.1.5'
 
-    exoPlayerVersion = '2.13.3'
+    exoPlayerVersion = '2.18.1'
 
     composeVersion = '1.1.1'
 
